@@ -1,0 +1,30 @@
+.imagestyle img{
+    height: 200px;
+    width:450px;
+    border-bottom-right-radius: 700px;
+    border-bottom-left-radius: 800px;
+    border-top-left-radius: 800px;
+}
+
+
+
+
+/* =================Small devices Query===============================*/
+@media screen and (max-width: 430px) {
+/* .hii{
+    width: 0.5rem;
+}
+
+      .maintb{
+        width: 11.8rem;  
+    
+    }
+      .mdbsize{
+        width: 1rem;
+      } */
+       .foodd {
+        display: none;
+    
+      } 
+
+}

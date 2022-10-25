@@ -1,0 +1,16 @@
+
+
+.servicebody{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    text-align: center;
+    background-color: #e0e0f1d5;
+    align-items: center;
+}
+/* body{
+    background-color: rgb(88, 93, 99);
+    justify-content: center;
+} */
+#serviceh2{
+    text-align: center;
+}
